@@ -1,0 +1,15 @@
+# .gitignore file contents
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# macOS specific
+.DS_Store
+
+# Add other things like secrets files, large datasets, build artifacts, etc.
+# secrets.json
+# data/large_dataset.csv
+# build/
+# dist/
